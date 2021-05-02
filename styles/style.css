@@ -1,0 +1,17 @@
+*, body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.title{
+    padding: 50px;
+}
+select{
+    padding: 10px;
+    margin: 10px;
+}
+
